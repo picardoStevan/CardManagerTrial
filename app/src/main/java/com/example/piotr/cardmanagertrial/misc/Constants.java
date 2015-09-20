@@ -5,5 +5,6 @@ package com.example.piotr.cardmanagertrial.misc;
  */
 public class Constants {
     public static final String DEV_API_KEY = "79488cba2624c07b152635c63208efd8";
-    
+    public static final String ID_BOARD = "OjiTfRZ5";
+
 }

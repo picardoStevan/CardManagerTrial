@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CardManagerTrial</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_in">Please wait...</string>
+    <string name="sharedID">Card_99</string>
+</resources>
